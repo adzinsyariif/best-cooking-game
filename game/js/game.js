@@ -449,17 +449,13 @@ window.addEventListener('keydown', (e) => {
     game.keys.add(KEYMAP[k]);
     e.preventDefault();
   }
-  if (k === 'e' && !e.repeat) {
-    game.interactHeld = true;
-    sounds.ensure();
-    interact();
-  }
-  // Space is a second interact key, so the whole loop is playable one-handed.
-  if (k === ' ' && !e.repeat) {
-    game.interactHeld = true;
-    sounds.ensure();
-    interact();
-    e.preventDefault();
+  if (k === 'e' || k === ' ') {
+    if (!e.repeat) {
+      game.interactHeld = true;
+      sounds.ensure();
+      interact();
+    }
+    if (k === ' ') e.preventDefault();
   }
   if (k === 'enter' && game.state === 'title') {
     sounds.ensure();

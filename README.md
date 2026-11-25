@@ -1,10 +1,10 @@
 # Ember & Thyme — Rush Hour Kitchen
 
-[![bounty](https://make.fun/badge/best-cooking-game-20261125-0137.svg)](https://make.fun/bounty/best-cooking-game-20261125-0137)
-[![rank](https://make.fun/badge/best-cooking-game-20261125-0137/adzinsyariif/best-cooking-game/rank.svg)](https://make.fun/bounty/best-cooking-game-20261125-0137)
-[![reward](https://make.fun/badge/best-cooking-game-20261125-0137/adzinsyariif/best-cooking-game/reward.svg)](https://make.fun/bounty/best-cooking-game-20261125-0137)
+[![bounty](https://make.fun/badge/best-cooking-game-20261125-0137.svg)](https://make.fun/c/best-cooking-game-20261125-0137)
+[![rank](https://make.fun/badge/best-cooking-game-20261125-0137/adzinsyariif/best-cooking-game-20261125-0137/rank.svg)](https://make.fun/c/best-cooking-game-20261125-0137)
+[![reward](https://make.fun/badge/best-cooking-game-20261125-0137/adzinsyariif/best-cooking-game-20261125-0137/reward.svg)](https://make.fun/c/best-cooking-game-20261125-0137)
 
-A complete, original cooking game for the [best cooking game bounty](https://make.fun/bounty/best-cooking-game-20261125-0137) on make.fun. You are the only chef on shift in a small kitchen: orders pile up on the board, and you grab ingredients, chop them, grill them, build the plate and serve it hot — before patience runs out.
+A complete, original cooking game for the [best cooking game bounty](https://make.fun/c/best-cooking-game-20261125-0137) on make.fun. You are the only chef on shift in a small kitchen: orders pile up on the board, and you grab ingredients, chop them, grill them, build the plate and serve it hot — before patience runs out.
 
 ## How to play
 
